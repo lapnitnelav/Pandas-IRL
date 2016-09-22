@@ -13,16 +13,16 @@ I've used Pandas only once to help a friend in need and only quickly so this was
 
 ##### What this is about
 
-This is not an exhaustive "getting started guide" but rather a focused (CSV file, Time Series, Plotting, Grouping, Sampling, Selecting) walkthrough using data from [Dublin's Emergency / Fire Brigade](https://data.gov.ie/dataset/fire-brigade-and-ambulance), specifically [this file](https://data.gov.ie/dataset/fire-brigade-and-ambulance/resource/e3083443-bd76-4e9a-acb6-7dc971c0e1dc), freely available to download.
+This is not an exhaustive "getting started guide" but rather a focused (CSV file, Time Series, Plotting, Grouping, Sampling, Selecting) walkthrough using data from [Dublin's Emergency / Fire Brigade](https://data.gov.ie/dataset/fire-brigade-and-ambulance), specifically [this file](https://data.gov.ie/dataset/fire-brigade-and-ambulance/resource/e3083443-bd76-4e9a-acb6-7dc971c0e1dc), freely available for download.
 
 ##### Notes
 
-*All of it was done through [Ipython / Jupyter](https://ipython.org/) interactive notebook software and if you want to run those notebooks, you'll need to install it. It's a great tool for this kind of work and I personally use them a lot.
+* All of it was done through [Ipython / Jupyter](https://ipython.org/) interactive notebook software and if you want to run those notebooks, you'll need to install it. It's a great tool for this kind of work and I personally use them a lot.
 
-*If you're on Windows, some steps might not work (%timeit comes in mind) but they're not mandatory. 
-It's also best to use [Anaconda](https://www.continuum.io/downloads) since installing some Python librarys on Windows can be tricky
+* If you're on Windows, some steps might not work (%timeit comes to mind) but they're not mandatory. 
+It's also best to use [Anaconda](https://www.continuum.io/downloads) since installing some Python libraries on Windows can be tricky
 
-*Reading in the appropriate order is strongly recommended. And so is perusing the official documentation and cookbooks.
+* Reading in the appropriate order is strongly recommended. And so is perusing the official documentation and cookbooks.
 
 ---
 
